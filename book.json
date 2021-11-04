@@ -1,5 +1,4 @@
 {
-    "theme": "classic",
     "plugins": [
         "lunrjs",
         "highlight",
