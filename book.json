@@ -1,0 +1,8 @@
+{
+    "theme": "classic",
+    "plugins": [
+        "lunrjs",
+        "highlight",
+        "tex"
+    ]
+}
