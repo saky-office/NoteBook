@@ -3,5 +3,24 @@
         "lunrjs",
         "highlight",
         "tex"
-    ]
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true,
+            "navs": [
+                {
+                    "title": "HOME",
+                    "url": "https:\/\/sakuia.com\/"
+                },
+                {
+                    "title": "BLOG",
+                    "url": "https:\/\/blog.saky.site\/"
+                },
+                {
+                    "title": "ABOUT",
+                    "url": "https:\/\/blog.saky.site\/post\/about\/"
+                }
+            ]
+        }
+    }
 }
