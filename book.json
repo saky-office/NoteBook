@@ -23,5 +23,6 @@
             ]
         }
     },
-    "title": "NoteBook"
+    "title": "NoteBook",
+    "root": "\/"
 }
